@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sitestatic.net	TRUE	/	FALSE	1999999999	__cf_bm	g7nOeSTmL2xyV81F3CwF9JAKzUNnMWO8EBo96qnl4Yo-1742206493-1.0.1.1-7tT_CqXFqaxOOq.wulWe.Bqtoiq.lI3IFJZQwv9yq81Tl2nNjw7CY6nTZyV7dNR2t7A9L78S.nDk4Ox4G6rFuGr6VaBIN6i4pA74DUxmKa0
+files.sitestatic.net	TRUE	/	FALSE	1999999999	SameSite	None
+
